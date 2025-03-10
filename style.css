@@ -390,3 +390,8 @@ footer {
 .hamburger-icon span:last-child {
   transform: none;
 }
+
+.section__text__p1 {
+  text-align: center;
+  font-size: 2rem; /* Increase the font size */
+}
